@@ -1,0 +1,124 @@
+@media only screen and (max-width:1300px){
+
+      
+    #bands{
+        display: block;
+    }
+
+
+    h2{
+        width: 100%;
+    }
+}
+
+
+
+
+
+
+
+
+@media only screen and (max-width:1200px){
+     
+    #bands{
+        display: block;
+    }
+
+    h2{
+        width: 80%;
+        margin: 10px auto;
+    }
+}
+
+
+
+
+
+
+@media only screen and (max-width:1080px){
+
+    #bands{
+        display: block;
+    }
+
+    #picture{
+        height: 60%;
+        
+    }
+
+    
+    #bts{
+
+       
+        height: 160%;
+        background-size:cover;
+        background-position: center center;
+    }
+}
+
+
+
+
+@media only screen and (max-width:900px){
+
+    #bands{
+        display: block;
+    }
+
+   
+
+    #bts{
+
+       
+        background-repeat: no-repeat;
+        background-size: 100%;
+        height: 90%;
+        background-position: center center;
+    }
+}
+    
+
+
+
+@media only screen and (max-width:600px){
+   
+    #bands{
+        display: block;
+        margin: 0 auto;
+        
+    }
+
+    #picture{
+        height: 60%;
+        width:100%;
+    }
+
+    .k-pop{
+        padding:0;
+    }
+
+    #bts{
+
+
+        height: 70vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+}
+
+
+@media only screen and (max-width:500px){
+    #bts{
+
+        height: 70vh;
+        background-size: cover;
+        background-repeat: no-repeat;
+        background-position: center center;
+    }
+   
+}
+
+
+
+

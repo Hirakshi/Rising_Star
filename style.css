@@ -1,0 +1,45 @@
+body{
+  background-image: url(./images/img1.webp);
+  background-size: cover;
+  text-align: center;
+}
+
+h1{
+  font-family: "font";
+  font-size: 70px;
+  background-color: rgba(245,173,173,0.5);
+}
+
+
+#bands{
+  display: flex;
+  margin: 0 auto;
+  width: 49%;
+}
+
+h2{
+  font-size: 15px;
+  background-color: #a203ab;
+  padding: 10px;
+  margin: 20px 0;
+  border-radius: 10px;
+}
+
+.k-pop{
+  padding: 30px;
+}
+
+a{
+  text-decoration: none;
+  color: white;
+}
+
+#picture{
+  height: 85%;
+  width:100%;
+}
+
+@font-face{
+  font-family: "font";
+  src: url(./images/DobkinScript.ttf);
+}

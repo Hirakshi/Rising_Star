@@ -1,0 +1,54 @@
+@media only screen and (max-width:1080px){
+
+    #bts{
+
+        background-image: url(../images/img20.avif);
+        
+    }
+}
+
+
+
+
+@media only screen and (max-width:900px){
+
+    
+   
+
+    #bts{
+
+        background-image: url(../images/img20.avif);
+        
+    }
+}
+    
+
+
+
+@media only screen and (max-width:600px){
+   
+    
+
+    #bts{
+
+        background-image: url(../images/img20.avif);
+
+        
+    }
+}
+
+
+@media only screen and (max-width:500px){
+    #bts{
+
+        
+        background-image: url(../images/img20.avif);
+
+        
+    }
+   
+}
+
+
+
+

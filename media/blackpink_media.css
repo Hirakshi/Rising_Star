@@ -1,0 +1,72 @@
+@media only screen and (max-width:1080px){
+
+    #blackpink{
+
+        background-image: url(../images/img20.jpg);
+        height: 160vh;
+        background-size: cover;
+        background-position: center center;
+       
+    }
+}
+
+
+
+
+@media only screen and (max-width:900px){
+
+    body{
+        background-color: pink;
+    }
+   
+
+    #blackpink{
+
+        background-image: url(../images/img20.jpg);
+        background-position: center center;
+        background-size: contain;
+        background-repeat: no-repeat;
+        
+    }
+}
+    
+
+
+
+@media only screen and (max-width:600px){
+   
+    body{
+        background-color: pink;
+    }
+
+    #blackpink{
+
+        background-image: url(../images/img20.jpg);
+        background-size:contain;
+        background-position: center center;
+        background-repeat: no-repeat;
+        margin:0;
+    }
+}
+
+
+@media only screen and (max-width:500px){
+    
+    body{
+        background-color: pink;
+    }
+    
+    #blackpink{
+
+        background-image: url(../images/img20.jpg);
+        background-size: contain;
+        background-position: center center;
+        background-repeat: no-repeat;
+        margin:0;
+        
+    }
+}
+
+
+
+
